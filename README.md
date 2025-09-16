@@ -24,7 +24,7 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 * Handled missing values in ratings and revenue.
 * Create new calculated columns and Measures.
 * Standardized product categories and location labels.
-* 
+
 **3. Exploratory Data Analysis (EDA):** Conducted using pivot tables, slicers, and charts.
   
 **4. Dashboard Creation:** Designed with Excel charts, conditional formatting, and KPIs cards for quick visualization
