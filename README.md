@@ -47,4 +47,18 @@ Key Data Fields: Customer ID, Product Category, Quantity, Order Value, Age Group
 * Conditional Formatting for highlighting trends.
 * Formulas (SUM, AVERAGE, COUNT, IF, VLOOKUP, IFS).
 
+### 6. Exploratory Data Analysis (Pivot Table Insights)
+
+Several pivot tables were created to extract meaningful patterns:
+
+* Average Rating Across Product Categories – Helped identify customer satisfaction per product type.
+* Highest Average Sales Order by Age Group – Revealed which age segments contributed most to revenue.
+* Gender Difference in Order Value & Quantity – Showed purchasing behavior variations.
+* Shipping Charges vs. Average Rating – Indicated whether higher shipping fees reduced customer satisfaction.
+* Location Quantity Sold & Average Revenue Performers – Identified top-performing regions.
+* Sales Increase by Previous Month – Showed monthly growth trends.
+* International vs. Local Order Ratings – Highlighted satisfaction differences between local and global customers.
+* Average Sales per Unit by Category – Pointed out the most profitable product categories.
+* Correlation Between Shipping Charges & Total Sales – Examined cost vs. demand relationship.
+* Product Category Sales Growth Over Months – Showed seasonal/category-specific growth trends.
 
