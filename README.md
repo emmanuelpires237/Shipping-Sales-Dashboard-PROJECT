@@ -33,7 +33,7 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 **5. Insights Extraction:** Generated insights from pivot tables, correlations, and trend analysis.
 
 
-**4. Data Source**
+### 4. Data Source
 
 **Primary Source:** Company’s internal sales and shipping transaction dataset.
 Key Data Fields: Customer ID, Product Category, Quantity, Order Value, Age Group, Gender, Rating, Location, Shipping Charges, Order Type (Local/International), and Order Date.
