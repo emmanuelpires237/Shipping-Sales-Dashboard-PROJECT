@@ -5,10 +5,12 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 
 **2.	Project Scope**
 **Objective:** To evaluate shipping sales performance and identify patterns that influence customer satisfaction and revenue.
+
 **KPIs Defined:**
 * Total Sales
 * Average Sales per Unit
 * Total Customer IDs
+
 **Key Deliverables:**
 * Interactive Excel Dashboard.
 * Pivot tables for detailed analysis.
