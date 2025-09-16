@@ -18,12 +18,16 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 
 **3.	Methodology**
 **1. Data Collection & Import:** Raw data was obtained from internal shipping and sales records.
+
 **2. Data Cleaning & Preparation:**
 * Removed duplicates in customer IDs.
 * Handled missing values in ratings and revenue.
 * Create new calculated columns and Measures.
 * Standardized product categories and location labels.
+* 
 **3. Exploratory Data Analysis (EDA):** Conducted using pivot tables, slicers, and charts.
+  
 **4. Dashboard Creation:** Designed with Excel charts, conditional formatting, and KPIs cards for quick visualization
+
 **5. Insights Extraction:** Generated insights from pivot tables, correlations, and trend analysis.
 
