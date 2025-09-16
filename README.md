@@ -39,7 +39,7 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 Key Data Fields: Customer ID, Product Category, Quantity, Order Value, Age Group, Gender, Rating, Location, Shipping Charges, Order Type (Local/International), and Order Date.
 
 
-##5. Tools Used
+**#5. Tools Used**
 
 * Microsoft Excel (main tool)
 * Pivot Tables & Pivot Charts.
