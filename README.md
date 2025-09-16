@@ -62,3 +62,39 @@ Several pivot tables were created to extract meaningful patterns:
 * Correlation Between Shipping Charges & Total Sales – Examined cost vs. demand relationship.
 * Product Category Sales Growth Over Months – Showed seasonal/category-specific growth trends.
 
+
+### 7. Results & Key Findings
+
+**KPI Results:**
+* Total Sales
+* Average Sales per Unit
+* Total Customer IDs
+
+**Customer Behavior Insights:**
+Younger age groups drove higher average sales orders compared to older groups.
+Gender analysis showed females spent more in total order value, while males had higher frequency of smaller orders while males had a higher order quantity than female.
+International customers gave slightly higher ratings, indicating possible satisfaction with shipping charges.
+
+**Product & Category Insights:**
+
+* Certain product categories had higher average sales per unit, making them revenue drivers.
+* Categories with lower ratings correlated with higher shipping costs, suggesting pricing sensitivity.
+* Top-performing regions consistently contributed to higher total sales and revenue.
+
+**Sales Growth Trends:**
+
+* Sales showed a steady month-over-month increase.
+* Some categories experienced seasonal spikes, which could be leveraged for promotions.
+
+### 8. Recommendations
+  
+* Optimize Shipping Costs: High shipping charges negatively affect ratings—consider adjusting or subsidizing costs for high-value orders.
+* Customer Segmentation: Focus marketing efforts on high-spending age groups and regions to maximize revenue.
+* Product Strategy: Invest in categories with high sales per unit and strong ratings, while improving underperforming categories.
+* Improve International Experience: Enhance delivery times and customer service for international buyers to boost satisfaction.
+* Leverage Trends: Use monthly sales patterns to forecast demand and plan inventory accordingly.
+
+### 9. Conclusion
+The shipping sales dashboard provided a comprehensive overview of sales performance, customer behavior, and product trends. Using Excel’s pivot tables and visualizations, critical KPIs were tracked, revealing opportunities to optimize shipping, enhance customer satisfaction, and drive future revenue growth.
+This project demonstrates how Excel can be leveraged as a full-scale analytics tool for KPI tracking, business intelligence, and actionable decision-making in shipping and sales operations.
+
