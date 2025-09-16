@@ -17,6 +17,7 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 * Visualizations of sales, ratings, and customer behavior
 
 **3.	Methodology**
+
 **1. Data Collection & Import:** Raw data was obtained from internal shipping and sales records.
 
 **2. Data Cleaning & Preparation:**
@@ -31,11 +32,14 @@ The analysis focused on measuring overall sales, customer distribution, and perf
 
 **5. Insights Extraction:** Generated insights from pivot tables, correlations, and trend analysis.
 
+
 **4. Data Source**
+
 **Primary Source:** Company’s internal sales and shipping transaction dataset.
 Key Data Fields: Customer ID, Product Category, Quantity, Order Value, Age Group, Gender, Rating, Location, Shipping Charges, Order Type (Local/International), and Order Date.
 
 **5. Tools Used**
+
 * Microsoft Excel (main tool)
 * Pivot Tables & Pivot Charts.
 * Slicers for filtering by category, date, and demographics.
