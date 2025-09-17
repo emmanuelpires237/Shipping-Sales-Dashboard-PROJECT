@@ -99,3 +99,6 @@ International customers gave slightly higher ratings, indicating possible satisf
 The shipping sales dashboard provided a comprehensive overview of sales performance, customer behavior, and product trends. Using Excel’s pivot tables and visualizations, critical KPIs were tracked, revealing opportunities to optimize shipping, enhance customer satisfaction, and drive future revenue growth.
 This project demonstrates how Excel can be leveraged as a full-scale analytics tool for KPI tracking, business intelligence, and actionable decision-making in shipping and sales operations.
 
+
+![Screenshot 2025-09-17 121906](https://github.com/user-attachments/assets/61f5bdcb-239a-4881-9b92-c26ec3f7b7b6)
+
